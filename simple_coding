@@ -1,0 +1,51 @@
+
+
+print('Hello, welcome to ITACHI I am an Al')
+
+print ('How can I help you?')
+
+print (4-9)
+
+print ((4*94-8)-(56-29*8))
+
+fav_anime = input ('what is your favorite anime?')
+
+print ('wow! I also like', fav_anime)
+
+Name = input (" what is your name?")
+
+Age = ("16")
+
+print('Hello!', Name, '! you are', Age, 'years old.')
+
+Name = ("Rafı")
+
+print ("How can I help you?", Name)
+
+a = 9
+
+b = 8
+
+print (a+b)|
+
+print (a-b)
+
+print (a*b)
+
+print (a/b)
+
+print((a-b * b)*(a + b))
+
+print (a%b)
+
+print (a**b)
+
+num1 = input(" Enter first number: ")
+
+num2 = input("Enter second number: ")
+
+num1 = int (num1)
+
+num2 = int (num2)
+
+print("The sum is", num1 + num2 * num1)
